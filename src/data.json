@@ -1,0 +1,19 @@
+
+        [{
+            "FirstName": "Matias",
+            "LastName": "Rodriguez",
+            "Phone": "12121212",
+            "IsFavorite": true
+        },
+        {
+            "FirstName": "Rodrigo",
+            "LastName": "Villalta",
+            "Phone": "23232323",
+            "IsFavorite": false
+        },
+        {
+            "FirstName": "Sofia",
+            "LastName": "Martinez",
+            "Phone": "45454545",
+            "IsFavorite": false
+        }]
